@@ -8,6 +8,9 @@ import helpSystem.handlers.database.DatabaseHandler;
 import java.util.List;
 import java.util.ListIterator;
 
+/**
+ * Super-puper class
+ */
 class DishModelHandler extends ModelHandler {
     protected static final String MODEL_NAME = "dish";
     private static final String ATTR_NAME_STRING = "name";
