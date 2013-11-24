@@ -7,7 +7,7 @@ import helpSystem.controllers.ConsoleControllerFactory;
 /**
  * Class for testing DishHelpSystemController
  */
-public class RestautantHelpSystemTest {
+public class RestaurantHelpSystemTest {
     /**
      * The entry point of the program
      * @param args The command line arguments, are not used in program
