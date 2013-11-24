@@ -7,8 +7,6 @@ import java.util.ListIterator;
 import java.io.File;
 import helpSystem.controllers.*;
 import helpSystem.models.*;
-        // One more test
-// One more test
 
 /**
  * Help system controller that works with dishes and categories
