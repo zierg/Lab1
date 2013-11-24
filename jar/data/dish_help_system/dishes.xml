@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+	<dish name="existing dish1" category="category1" price="100500.0" />
+	<dish name="existing dish 2" category="category20" price="100499.99" />
+	<dish name="new dish 1" category="cat 1" price="30.33" />
+	<dish name="new dish 2" category="cat 1" price="5050.0" />
+</database>

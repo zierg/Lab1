@@ -1,0 +1,7 @@
+helpSystem.controllers
+helpSystem.controllers.console
+helpSystem.handlers.database
+helpSystem.handlers.model
+helpSystem.models
+helpSystem.restaurant
+helpSystem.tests
