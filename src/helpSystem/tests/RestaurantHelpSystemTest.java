@@ -13,6 +13,8 @@ public class RestaurantHelpSystemTest {
      * @param args The command line arguments, are not used in program
      * @throws Exception
      */
+    
+    // One more test
     public static void main(String[] args) throws Exception {
         HelpSystemController pc = new RestaurantHelpSystemController(ConsoleControllerFactory.getInstance());
         pc.start();
