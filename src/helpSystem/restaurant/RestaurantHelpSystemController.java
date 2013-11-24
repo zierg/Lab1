@@ -57,8 +57,6 @@ public class RestaurantHelpSystemController extends HelpSystemController {
             throws ControllerCreatingErrorException {
         
         super(factory);
-        // Testing git
-        System.out.println();
 
         try {
             DishModelHandler tempDishHandler = new DishModelHandler(menu, new XMLHandler("dish", DISHES_FILENAME));
